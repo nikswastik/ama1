@@ -1,0 +1,80 @@
+.signup-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.head-text{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.2;
+    text-rendering: optimizeLegibility;
+    padding-bottom: 4px;
+}
+
+.signup-form {
+    margin: 1em;
+    width: 25%;
+    border: 1px solid black;
+    padding: 1em;
+}
+
+.phone-felid-contr{
+    display: flex;
+    width: 95%;
+
+}
+
+.inp-field{
+    margin: 0.1em;
+      color: #111;
+      border: 1px solid #a6a6a6;
+       border-top-color: #949494;
+      border-radius: 3px;
+      box-shadow: 0 1px 0 rgb(255 255 255 / 50%), 0 1px 0 rgb(0 0 0 / 7%) inset;
+      background-color: #fff;
+      height: 31px;
+      padding: 3px 7px;
+      line-height: normal;
+      width: 90%;
+      margin-top: 0.4em;
+      margin-bottom: 1.2em;
+}
+
+.country-code{
+    width: 30%;
+}
+
+.mobile-num{
+    width: 60%;
+    margin-left: 2em;
+}
+
+.label-text{
+    line-height: 19px;
+    color: #111;
+    padding-left: 2px;
+    font-weight: 700;
+    margin-bottom: 0.5em !important;
+}
+
+.conditions-text{
+    font-size: 1.1em;
+    color: #111;
+    line-height: 1em;
+}
+
+.cont-btn-contr{
+    margin-top: 2.5em;
+    width: 95%;
+    display: flex;
+    justify-content:center ;
+ 
+}
+
+.link-text{
+    font-size: 1em;
+    color: #0066c0;
+    line-height: 1em;
+}
