@@ -1,0 +1,11 @@
+.amazon-logo{
+height: 4em;
+width: 8em;
+}
+
+.header-cntr{
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

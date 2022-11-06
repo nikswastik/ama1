@@ -1,0 +1,104 @@
+.signup-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.head-text {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.2;
+    text-rendering: optimizeLegibility;
+    padding-bottom: 4px;
+}
+
+.signup-form {
+    margin: 1em;
+    width: 20%;
+    padding: 1em;
+    border: 1px solid black;
+    padding: 1em;
+}
+
+.phone-felid-contr {
+    display: flex;
+    width: 100%;
+    /* background-color: red; */
+
+}
+
+.inp-field {
+    margin: 0.1em;
+    color: #111;
+    border: 1px solid #a6a6a6;
+    border-top-color: #949494;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 50%), 0 1px 0 rgb(0 0 0 / 7%) inset;
+    background-color: #fff;
+    height: 31px;
+    padding: 3px 7px;
+    line-height: normal;
+    width: 90%;
+    margin-top: 0.4em;
+
+
+}
+
+.country-code {
+    width: 30%;
+    height: 3em;
+    background-color: #eaecee;
+}
+
+.mobile-num {
+    width: 50%;
+    margin-left: 2em;
+    /* height: 3em; */
+}
+
+.label-text {
+    line-height: 19px;
+    color: #111;
+    padding-left: 2px;
+    font-weight: 700;
+    margin-bottom: 0.5em !important;
+}
+
+.link-text-signIn {
+    color: #0066c0;
+}
+
+.btn-signin-contr {
+    width: 95%;
+    margin-top: 0.5em;
+}
+
+
+.hr-line {
+    margin-top: 2em;
+}
+
+.first-group {}
+
+.second-group {
+    margin-top: 1em;
+}
+
+.second-sin-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.normal-text {
+    margin-top: 1em;
+    color: #0066c0;
+}
+.create-signin-contr{
+    width: 20%;
+}
+
+.create{
+    background-color: #e9ecee;
+}
